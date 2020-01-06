@@ -52,3 +52,6 @@ git status
 git add .
 git commit -m "added travis file"
 git push -u origin master
+
+# create new branch for development
+git checkout -b feature
