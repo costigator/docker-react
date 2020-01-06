@@ -46,3 +46,9 @@ git add .
 git commit -m "initial commit"
 git remote add origin git@github.com:costigator/docker-react.git
 git push -u origin master
+
+# commit changes
+git status
+git add .
+git commit -m "added travis file"
+git push -u origin master
