@@ -2,7 +2,7 @@ FROM node:alpine as builder
 WORKDIR /app
 
 # Install dependencies
-COPY package*.json .
+COPY package*.json ./
 RUN npm install
 
 # Copy the app (not needed if volume is mounted)
