@@ -55,3 +55,7 @@ git push -u origin master
 
 # create new branch for development
 git checkout -b feature
+git push origin feature
+
+# pull request
+Make it on github (GUI)

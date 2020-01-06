@@ -1,3 +1,7 @@
+# Example Docker / React App
+
+[![Travis](https://img.shields.io/travis/costigator/docker-react/master.svg?branch=master)](https://travis-ci.org/costigator/docker-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
